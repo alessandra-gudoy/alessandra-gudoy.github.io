@@ -10,12 +10,12 @@
     "location": { "address": "", "postalCode": "96732", "city": "Kahului", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "alessandra-gudoy", "url": "http://github.com/alessandra-gudoy" },
-      { "network": "linkedin", "username": "alessandragudoy", "url": "www.linkedin.com/in/alessandra-gudoy-4201b323a" }
+      { "network": "linkedin", "username": "alessandragudoy", "url": "www.linkedin.com/in/alessandra-gudoy" }
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
+    { "name": "Board Games" },
+    { "name": "Robotics" },
     { "name": "Quantum Computing" },
     { "name": "Robotics" },
     { "name": "3D Graphics" }
@@ -23,43 +23,44 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "keywords": [ "C", "C++", "Java", "Javascript", "Python" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "MacOS", "Windows", "GitHub"]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Science (expected Spring, 2027)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2023-08-01",
       "endDate": "Present",
       "courses": [
+        "ICS 211: Introduction to Computer Science II", "ICS 212: Program Structure", "ECON 321: Introduction to Statistics"
       ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "McDonald's",
+      "position": "Crew",
       "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "startDate": "2020-06-01",
+      "endDate": "2022-10-30",
+      "summary": "Provided customer service and maintained a clean and safe restaurant",
       "highlights": [
         "Maintain, update, and oversee official college newspaper website",
         "Drive, design and build student-community projects for UH Manoa"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
+      "company": "Research Corporation of University of Hawaii",
+      "position": "Project Assistant",
+      "website": "",
+      "startDate": "2022-06-01",
+      "endDate": "2022-12-31",
       "summary": "",
       "highlights": [
         "Troubleshoot software, hardware and networking issues over the phone",
