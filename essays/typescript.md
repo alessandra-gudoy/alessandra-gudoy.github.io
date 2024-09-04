@@ -11,7 +11,7 @@ labels:
   - Learning
 ---
 
-<img width="100px" class="rounded float-start pe-4" src="../img/igniting/paintbrushes.jpg">
+<img width="300px" class="rounded float-start pe-4" src="../img/typescript_picture.png">
 
 ## TypeScript Experience
 After learning other programming languages through robotics and courses in computer science, learning another is less overwhelming than it used to be. The same with TypeScript. The exercises under “Basic JavaScript” on the FreeCodeCamp website were a breeze. I have done JavaScript before for robotics in high school, therefore it was things that I have learned before. The later exercises, the ones under “ES6” were less familiar; however, the exercises came with examples and brief explanations, so it was not as bad as it could have been.
