@@ -69,28 +69,28 @@
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "organization": "Maui High School Robotics",
+      "website": "",
+      "position": "Programmer",
+      "startDate": "2019-08-01",
+      "endDate": "2023-05-30",
+      "summary": "Working in teams, we built and programmed robots and documented our progress in the VEX and FRC robotics competitions. As a programmer, I helped with the robot’s movements and the functionality of the scouting app to gather data on other teams.",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "Programming Captain and Technician, 2023"
+        "Working with builders and documenters to discuss the progress on the robot/scouting app",
+        "Testing and troubleshooting code to make the robot move and execute tasks"
       ]
     },
     {
-      "organization": "",
+      "organization": "Maui High School CyberPatriots",
       "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
+      "position": "Cisco competitor",
+      "startDate": "2019-08-01",
+      "endDate": "2023-05-30",
       "summary": "",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Moving on to the State Round by being in the top percent in our division with respect to our tier",
+        "Working with a partner to make sure the network was up and had no security issues",
       ]
     }
   ],
