@@ -15,10 +15,9 @@
   },
   "interests": [
     { "name": "Board Games" },
+    { "name": "Puzzles" },
     { "name": "Robotics" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Reading" }
   ],
   "skills": [
     {
@@ -51,8 +50,8 @@
       "endDate": "2022-10-30",
       "summary": "Provided customer service and maintained a clean and safe restaurant",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Sweep and mopping in the dining and meeting customers",
+        "Serving regular customers and providing good customer service to keep them coming back"
       ]
     },
     {
@@ -63,8 +62,8 @@
       "endDate": "2022-12-31",
       "summary": "",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Using R to analyze data",
+        "Using simulations to record data in a spreadsheet"
       ]
     }
   ],
