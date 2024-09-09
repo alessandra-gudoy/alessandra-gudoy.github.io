@@ -9,7 +9,7 @@ labels:
   - Filmmaking
   - Editing
   - Videography
-summary: "My FIL202 (Intermediate Filipino) class wrote, filmed, and edited a video based on the movie "Seven Sundays" as a video submission for the Katipunan's Got Talent event."
+summary: "My FIL202 (Intermediate Filipino) class wrote, filmed, and edited a video based on the movie Seven Sundays as a video submission for the Katipunan's Got Talent event."
 ---
 
 <img class="img-fluid" src="../img/pito/pito.JPG">
