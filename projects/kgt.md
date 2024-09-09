@@ -12,7 +12,7 @@ labels:
 summary: "My FIL202 (Intermediate Filipino) class wrote, filmed, and edited a video based on the movie Seven Sundays as a video submission for the Katipunan's Got Talent event."
 ---
 
-<img class="img-fluid" src="../img/pito/pito.JPG">
+<img height="700px" src="../img/pito/pito.JPG">
 
 "Pitong Sabado," or Seven Sundays, was a short video based on the movie of the same name, "Seven Sundays." It was a class project to create a video submission for the Katipunan's Got Talent (KGT) event. Each class in the Filipino courses at UH Manoa was to submit a performance idea, be it a video or live performance, in the theme of the semester's KGT. During Spring 2024, the theme was "Maalaala Mo Kaya" (MMK), which translates to "Can You Remember".
 
