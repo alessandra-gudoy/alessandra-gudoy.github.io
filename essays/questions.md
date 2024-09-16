@@ -11,6 +11,8 @@ labels:
   - Stack Overflow
 ---
 
+<img height="300px" class="rounded float-start pe-4" src="../img/question_essay/question-mark.jpg">
+
 ### Smart Questions
   Not everyone is an expert in everything they do. Even some of the most revered professionals have questions. Everyone, at some point in their lives, has heard the phrase, “There are no stupid questions.” However, looking at it from the perspective of “There is Google, and probably documentation or a manual,” there are some questions that can be solved without asking. If there is a question that cannot be answered by searching it up and other means, and the only option left is to ask for help, then that question should be asked in a smart way.
 
