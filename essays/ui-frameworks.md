@@ -21,7 +21,7 @@ With most of my experience in programming dealing with functionality and little 
 
 I think that is what is making it more difficult for me to grasp. Because I fully don’t understand what the classes are doing, I don’t know what to add or change to get the desired output. However, with more time and practice, I can confidently use Bootstrap without referencing the documentation as much.
 
-<img width="100%" class="rounded float-start pe-4" src="../img/e37_ui-frameworks/murphys.png">
+<img height="75%" class="rounded float-center pe-4" src="../img/e37_ui-frameworks/murphys.png">
 One of the most challenging parts of the assignments and practice WODS was getting the alignment correct. For example, in the practice WOD of recreating the website for Murphy’s, I had difficulty in the main section, which was having an image be the backdrop and centering the text. Centering the text horizontally was simple. However, I did not know how to center the text vertically.
 
 ## Practice WODs and In-class WOD
