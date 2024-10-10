@@ -17,7 +17,7 @@ The module UI Frameworks (Basics) was deemed the most painful module of the seme
 The CSS tutorial was just as helpful as the HTML tutorial. I understood how classes and IDs were used to group and format elements in the body of the HTML. Sometimes, getting the correct formatting was simple and fast. Other times, it was tedious and frustrating. However, with Bootstrap, some of the more frustrating formats were easier to do. 
 
 ## Bootstrap Experience
-<img width="50%" class="rounded justify-content-center pe-4" src="../img/e37_ui-frameworks/murphys.png">
+<img width="50%" class="rounded mx-auto d-block pe-4" src="../img/e37_ui-frameworks/murphys.png">
 
 With most of my experience in programming dealing with functionality and little experience with HTML and CSS, I found it both frustrating and rewarding to learn Bootstrap. HTML and CSS are very straightforward. What you write is what you get. However, with Bootstrap, most of the work is done for you. Just attach a class, and you’re done!
 
