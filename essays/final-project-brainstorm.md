@@ -18,7 +18,7 @@ The home page will be a monthly calendar. However, when logged in, the calendar 
 
 The navigation bar will have a dropdown menu that links to all the necessary syllabi, like the bookmarks bar of a web browser, a To-Do List, and Reminders. The To-Do List and Reminders page will have a table which will have a button to add things to the table. The tables’ columns will be clickable to sort the rows in some order (alphabetically, due date, points/importance). A search bar can also be added to filter out the table for a certain entry.
 
-<img class="rounded mx-auto d-block pe-4" src="../img/final_proj_brainstorm/brainstorm-navbar.jpg"/>
+<img width="65%" class="rounded mx-auto d-block pe-4" src="../img/final_proj_brainstorm/brainstorm-navbar.jpg"/>
 
 ## Case Ideas
 The student planner application can be tested by UH Manoa students, where they can add to the calendar of important dates, access all the syllabi of their classes in one place, add and check items on a to-do list, and add reminders.
