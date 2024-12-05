@@ -8,7 +8,7 @@ labels:
   - Design Patterns
 ---
 
-<img src="../img/e63_design-patterns/wheels.jpeg" />
+<img height="300px" class="float-start pe-4" src="../img/e63_design-patterns/wheels.jpeg" />
 
 ## Don’t Reinvent the Wheel
 
