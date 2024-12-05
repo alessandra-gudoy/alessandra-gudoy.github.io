@@ -5,7 +5,7 @@ title: "Design Patterns"
 date: 2024-12-04
 labels:
   - Software Engineering
-  - 
+  - Design Patterns
 ---
 
 ## Don’t Reinvent the Wheel
