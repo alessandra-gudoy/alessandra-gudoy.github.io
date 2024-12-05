@@ -8,9 +8,9 @@ labels:
   - Design Patterns
 ---
 
-## Don’t Reinvent the Wheel
+<img src="../img/e63_design-patterns/wheels.jpeg" />
 
-<img src=”../img/e63_design-patterns/wheels.jpeg” />
+## Don’t Reinvent the Wheel
 
 “Don’t reinvent the wheel” is a common phrase saying to use what already exists to save time and effort. Similarly, design patterns describe a recurring problem and define the solution in a way that can be applied without it being done the same way before. The essential characteristics of the wheel are still there, but we have built upon it. The problem may differ depending on the environment, situation, and other variables; however, the described solution allows one to apply the same thinking to solve the problem. In other words, a design pattern is a blueprint for how to solve a problem.
 
