@@ -13,13 +13,15 @@ labels:
 
 ## Introduction
 
-<img width="175px" class="rounded float-start pe-4" alt="'Hey, Siri. Flip a coin.'" src="../img/ai_use/siri.jpg">
+<img width="200px" class="rounded float-start pe-4" alt="'Hey, Siri. Flip a coin.'" src="../img/ai_use/siri.jpg">
 
 “Hey, Siri. Flip a coin.” The words I say to help me make simple day-to-day decisions. And Siri is just one of many tools we have available to us. As a student, I have used Grammarly, ChatGPT, and GitHub Copilot to help with my studies. Grammarly helps me with grammar in my essays and emails. ChatGPT to create a study guide of topics I need to study. And GitHub Copilot for simple, menial tasks in programming. Those are the three that I have used this semester. However, AI is ubiquitous and inescapable as technology becomes more prominent in our daily lives.
 
+<br/><br/><br/>
+
 ## Assisting in Assignments
 
-<img width="25%" class="rounded pe-4" src="../img/e28_coding-standards-reflection/programming.png">
+<img width="25%" class="rounded float-start pe-4" src="../img/e28_coding-standards-reflection/programming.png">
 
 #### Coding Assignments
 Our primary assignments in ICS 314, Software Engineering I, were coding experiences, technical essays, and a group project. Regarding the coding assignments and in-class WODs, I preferred to work the problems out myself. I always found it easier to learn coding through trial and error. Putting in print statements and commenting out code to go through the program one step at a time to debug it. Additionally, most of the coding assignments were graded based on completion, so I didn’t feel pressured into getting the most efficient, or at times, correct solutions.
@@ -27,7 +29,7 @@ Our primary assignments in ICS 314, Software Engineering I, were coding experien
 By making those mistakes, I can understand why the code was not working as I thought it would. Learning the concepts of functional programming was easier and more rewarding when I did the assignments myself. And by doing them without AI, I felt I had a better understanding of what the code I wrote was doing. I saw that the code that Copilot wrote were compact and efficient. However, it was hard to follow and understand. Therefore, while learning and practicing, I opted not to use Copilot or ChatGPT.
 
 #### Final Project
-During the final project, I used Copilot to help with the functions of adding to and updating the data in the tables of our database, such as ```editCompany()```. However, most of the coding was done in the series of WODs implementing the Digits app. The video provided by the assignment page from the <a href=“https://courses.ics.hawaii.edu/ics314f24/”>ICS 314 course website</a> was sufficient for me to understand.
+During the final project, I used Copilot to help with the functions of adding to and updating the data in the tables of our database, such as ```editCompany()```. However, most of the coding was done in the series of WODs implementing the Digits app. The video provided by the assignment page from the <a href="https://courses.ics.hawaii.edu/ics314f24/">ICS 314 course website</a> was sufficient for me to understand.
 
 #### Writing with AI
 <img width="50%" class="rounded mx-auto d-block pe-4" alt="Grammarly on Google Doc" src="../img/ai_use/grammarly.png">
