@@ -13,13 +13,13 @@ labels:
 
 ## Introduction
 
-<img width="200px" class="rounded float-start" alt="'Hey, Siri. Flip a coin.'" src="../img/ai_use/siri.jpg">
+<img width="175px" class="rounded float-start pe-4" alt="'Hey, Siri. Flip a coin.'" src="../img/ai_use/siri.jpg">
 
 “Hey, Siri. Flip a coin.” The words I say to help me make simple day-to-day decisions. And Siri is just one of many tools we have available to us. As a student, I have used Grammarly, ChatGPT, and GitHub Copilot to help with my studies. Grammarly helps me with grammar in my essays and emails. ChatGPT to create a study guide of topics I need to study. And GitHub Copilot for simple, menial tasks in programming. Those are the three that I have used this semester. However, AI is ubiquitous and inescapable as technology becomes more prominent in our daily lives.
 
 ## Assisting in Assignments
 
-<img width="25%" class="rounded" src="../img/e28_coding-standards-reflection/programming.png">
+<img width="25%" class="rounded pe-4" src="../img/e28_coding-standards-reflection/programming.png">
 
 #### Coding Assignments
 Our primary assignments in ICS 314, Software Engineering I, were coding experiences, technical essays, and a group project. Regarding the coding assignments and in-class WODs, I preferred to work the problems out myself. I always found it easier to learn coding through trial and error. Putting in print statements and commenting out code to go through the program one step at a time to debug it. Additionally, most of the coding assignments were graded based on completion, so I didn’t feel pressured into getting the most efficient, or at times, correct solutions.
