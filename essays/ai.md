@@ -11,13 +11,13 @@ labels:
   - Learning
 ---
 
-<img height="150px" class="rounded float-start pe-4" alt="'Hey, Siri. Flip a coin.'" src="../img/ai_use/siri.jpg">
+<img class="rounded float-start" alt="'Hey, Siri. Flip a coin.'" src="../img/ai_use/siri.jpg">
 
 “Hey, Siri. Flip a coin.” The words I say to help me make simple day-to-day decisions. And Siri is just one of many tools we have available to us. As a student, I have used Grammarly, ChatGPT, and GitHub Copilot to help with my studies. Grammarly helps me with grammar in my essays and emails. ChatGPT to create a study guide of topics I need to study. And GitHub Copilot for simple, menial tasks in programming. Those are the three that I have used this semester. However, AI is ubiquitous and inescapable as technology becomes more prominent in our daily lives.
 
 ## Assisting in Assignments
 
-<img height="150px" class="rounded float-start pe-4" src="../img/e28_coding-standards-reflection/programming.png">
+<img width="50%" class="rounded float-center" src="../img/e28_coding-standards-reflection/programming.png">
 #### Coding Assignments
 Our primary assignments in ICS 314, Software Engineering I, were coding experiences, technical essays, and a group project. Regarding the coding assignments and in-class WODs, I preferred to work the problems out myself. I always found it easier to learn coding through trial and error. Putting in print statements and commenting out code to go through the program one step at a time to debug it. Additionally, most of the coding assignments were graded based on completion, so I didn’t feel pressured into getting the most efficient, or at times, correct solutions.
 
@@ -27,7 +27,7 @@ By making those mistakes, I can understand why the code was not working as I tho
 During the final project, I used Copilot to help with the functions of adding to and updating the data in the tables of our database, such as ```editCompany()```. However, most of the coding was done in the series of WODs implementing the Digits app. The video provided by the assignment page from the <a href=“https://courses.ics.hawaii.edu/ics314f24/”>ICS 314 course website</a> was sufficient for me to understand.
 
 #### Writing with AI
-<img height="150px" class="rounded float-start pe-4" alt="Grammarly on Google Doc" src="../img/ai_use/grammarly.png">
+<img height="50%" class="rounded float-start" alt="Grammarly on Google Doc" src="../img/ai_use/grammarly.png">
 For the essays, I used Grammarly to help with my grammar and tone. For example, I write down my thoughts, and Grammarly would suggest rewriting them for clarity or to make the sentences sound less passive. Most of the time, I accepted those changes. However, other times, I believe the changes were unnecessary or took out the “humanness” of the writing. I like the repetition. I like the uncertainty of the tone sometimes. Or sometimes, a phrase is all we need to say to convey something.
 
 ## Net-Positive Effect
