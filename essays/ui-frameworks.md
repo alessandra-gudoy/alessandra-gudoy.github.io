@@ -4,7 +4,7 @@ type: essay
 title: "HTML and CSS Made Simpler with Bootstrap"
 # All dates must be YYYY-MM-DD format!
 date: 2024-10-09
-published: true
+published: false
 labels:
   - Bootstrap
   - HTML
