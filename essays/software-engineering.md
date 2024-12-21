@@ -16,11 +16,17 @@ labels:
 ## In a Nutshell
 After six years of "computer science,"—starting as a programmer on my high school robotics team—I’ve come to appreciate how far I’ve progressed. Computer science is not just programming I have come to realize, but all the processes and concepts including software and hardware, problem-solving, cybersecurity, and other concepts. More importantly, it is about applying these principles to use the available resources to develop and produce technologies and systems to solve problems, effectively making the life more efficient and easier.
 
-<p>
-  <img class="img-fluid" width="33%" src="../img/e28_coding-standards-reflection/eslint.png" />
-  <img class="img-fluid" width="33%" src="../img/reflection/react.png" />
-  <img class="img-fluid" width="33%" src="../img/e37_ui-frameworks/bootstrap-logo.png" />
-</p>
+<div class="row">
+  <div class="col">
+    <img class="img-fluid" height="175px" alt="ESLint" src="../img/e28_coding-standards-reflection/eslint.png" />
+  </div>
+  <div class="col">
+    <img class="img-fluid" height="175px" alt="React Icon" src="../img/reflection/react.png" />
+  </div>
+  <div class="col">
+    <img class="img-fluid" height="175px" alt="Bootstrap Icon" src="../img/e37_ui-frameworks/bootstrap-logo.png" />
+  </div>
+</div>
 
 ## Learning Highlights
 
