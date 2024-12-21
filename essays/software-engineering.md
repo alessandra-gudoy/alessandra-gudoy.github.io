@@ -17,9 +17,9 @@ labels:
 After six years of "computer science,"—starting as a programmer on my high school robotics team—I’ve come to appreciate how far I’ve progressed. Computer science is not just programming I have come to realize, but all the processes and concepts including software and hardware, problem-solving, cybersecurity, and other concepts. More importantly, it is about applying these principles to use the available resources to develop and produce technologies and systems to solve problems, effectively making the life more efficient and easier.
 
 <p>
-  <img class="img-fluid" src="../img/e28_coding-standards-reflection/eslint.png" />
-  <img class="img-fluid" src="../img/reflection/react.jpg" />
-  <img class="img-fluid" src="../img/e37_ui-frameworks/bootstrap-logo.png" />
+  <img class="img-fluid" width="33%" src="../img/e28_coding-standards-reflection/eslint.png" />
+  <img class="img-fluid" width="33%" src="../img/reflection/react.png" />
+  <img class="img-fluid" width="33%" src="../img/e37_ui-frameworks/bootstrap-logo.png" />
 </p>
 
 ## Learning Highlights
