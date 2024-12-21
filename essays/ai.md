@@ -19,8 +19,6 @@ With the rapid development of technology and the never-ending list of AI tools a
 
 “Hey, Siri. Flip a coin.” The words I say to help me make simple day-to-day decisions. And Siri is just one of many tools we have available to us. As a student, I have used Grammarly, ChatGPT, and GitHub Copilot to help with my studies. Grammarly helps me with grammar in my essays and emails. ChatGPT to create a study guide of topics I need to study. And GitHub Copilot for simple, menial tasks in programming. Those are the three that I have used this semester. However, AI is ubiquitous and inescapable as technology becomes more prominent in our daily lives.
 
-<br/><br/>
-
 ## Assisting in Assignments
 
 <img width="25%" class="rounded float-start pe-4" src="../img/e28_coding-standards-reflection/programming.png">
