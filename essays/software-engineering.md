@@ -18,7 +18,7 @@ After six years of "computer science,"—starting as a programmer on my high sch
 
 <p>
   <img class="img-fluid" src="../img/e28_coding-standards-reflection/eslint.png" />
-  <img class="img-fluid" src="../img/reflection/cs.jpg" />
+  <img class="img-fluid" src="../img/reflection/react.jpg" />
   <img class="img-fluid" src="../img/e37_ui-frameworks/bootstrap-logo.png" />
 </p>
 
