@@ -15,6 +15,8 @@ labels:
 
 <img width="200px" class="rounded float-start pe-4" alt="'Hey, Siri. Flip a coin.'" src="../img/ai_use/siri.jpg">
 
+With the rapid development of technology and the never-ending list of AI tools appearing, it is nearly impossible to meet someone who has never heard of or used artificial intelligence tools. It can be as simple as “Hey, Siri” or typing in a prompt to ChatGPT. From ChatGPT and Midjourney, generative AI, like it or not, is the future of the world. Even traditional AI, like voice assistants, that rely on machine learning is found nearly everywhere, from schools to healthcare.
+
 “Hey, Siri. Flip a coin.” The words I say to help me make simple day-to-day decisions. And Siri is just one of many tools we have available to us. As a student, I have used Grammarly, ChatGPT, and GitHub Copilot to help with my studies. Grammarly helps me with grammar in my essays and emails. ChatGPT to create a study guide of topics I need to study. And GitHub Copilot for simple, menial tasks in programming. Those are the three that I have used this semester. However, AI is ubiquitous and inescapable as technology becomes more prominent in our daily lives.
 
 <br/><br/><br/>
@@ -48,8 +50,10 @@ Furthermore, AI is even used in educational tools like Pearson. In Pearson, ther
 ## Challenges and Opportunities
 As stated above, Copilot can produce code that is more efficient and compact than the code I would write. It is an opportunity to learn how to write this kind of code. The type that takes the least amount of time and uses the least amount of memory. However, it also poses the challenge that the code is hard to understand and hard to replicate without learning what it actually does.
 
-## Future Considerations
 This leads us to the next challenge: did I truly learn the concepts? Yes, the use of AI can get you the grade and points needed to “show” that you understand. However, if Copilot or ChatGPT or some other AI did it for you, is there a need to understand the concept? With the use of AI, it is difficult to fight the urge just to have AI do your assignments and turn them in, especially, when the professor encourages you to use these tools.
 
+## Future Considerations
+AI is the future for learning and efficiency and convenience in our day to day lives. However, as stated before, are people really learning from using AI? Or is it just a way of completing tasks quickly without putting the effort? Additionally, AI needs to learn from training data. How are we sure that the training data provided is unbiased and representative of the population of data? Are the samples large enough so that we are able to generalize well? Where does this data from? How will AI affect the job market? These are all questions that arise with the topic of AI. With all these questions, some people find it scary how prevalent the use of AI is. However, with all its positive impacts on the world, it is hard to deny it has a net-positive effect.
+
 ## Conclusion
-But that is different for everyone. Others find it useful, while others prefer a more independent approach. Others can start at a given starting point, while others can spend hours on square one. In my experience, learning for me is easier when I do things myself. However, when I have a strong foundation, I look forward to using these tools to make life easier and develop my understanding in software engineering and other subjects.
+Is AI the future? That question has a different answer for everyone. Others find it useful for their assignments, while others prefer a more independent approach. Others can start at a given starting point, while others can spend hours on square one. Others find them helpful using virtual assistants like Siri or chatbots that can provide customer support. In my experience, learning for me is easier when I do things myself. However, when I have a strong foundation, I look forward to using these tools to make life easier and develop my understanding in software engineering and other subjects.
