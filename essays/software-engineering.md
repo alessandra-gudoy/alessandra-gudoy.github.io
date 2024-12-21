@@ -18,13 +18,13 @@ After six years of "computer science,"—starting as a programmer on my high sch
 
 <div class="row">
   <div class="col">
-    <img class="img-fluid" height="175px" alt="ESLint" src="../img/e28_coding-standards-reflection/eslint.png" />
+    <img height="175px" alt="ESLint" src="../img/e28_coding-standards-reflection/eslint.png" />
   </div>
   <div class="col">
-    <img class="img-fluid" height="175px" alt="React Icon" src="../img/reflection/react.png" />
+    <img height="175px" alt="React Icon" src="../img/reflection/react.png" />
   </div>
   <div class="col">
-    <img class="img-fluid" height="175px" alt="Bootstrap Icon" src="../img/e37_ui-frameworks/bootstrap-logo.png" />
+    <img height="175px" alt="Bootstrap Icon" src="../img/e37_ui-frameworks/bootstrap-logo.png" />
   </div>
 </div>
 
