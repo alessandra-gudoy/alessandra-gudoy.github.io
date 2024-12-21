@@ -34,7 +34,7 @@ Not only did working the Corponector application help with my technical skills b
 
 ### Relevant Links
 <a href="https://github.com/corponector/">Corponector GitHub Organization</a>,
-<a href="https://corponector.github.io/">Corponector Home Page</a>
+<a href="https://corponector.github.io/">Corponector Home Page</a>,
 <a href="https://corponector.vercel.app/">Corponector</a>
 
 

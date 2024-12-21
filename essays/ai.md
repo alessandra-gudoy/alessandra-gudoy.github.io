@@ -13,13 +13,13 @@ labels:
 
 ## Introduction
 
-<img width="200px" class="rounded float-start pe-4" alt="'Hey, Siri. Flip a coin.'" src="../img/ai_use/siri.jpg">
+<img width="225px" class="rounded float-start pe-4" alt="'Hey, Siri. Flip a coin.'" src="../img/ai_use/siri.jpg">
 
 With the rapid development of technology and the never-ending list of AI tools appearing, it is nearly impossible to meet someone who has never heard of or used artificial intelligence tools. It can be as simple as “Hey, Siri” or typing in a prompt to ChatGPT. From ChatGPT and Midjourney, generative AI, like it or not, is the future of the world. Even traditional AI, like voice assistants, that rely on machine learning is found nearly everywhere, from schools to healthcare.
 
 “Hey, Siri. Flip a coin.” The words I say to help me make simple day-to-day decisions. And Siri is just one of many tools we have available to us. As a student, I have used Grammarly, ChatGPT, and GitHub Copilot to help with my studies. Grammarly helps me with grammar in my essays and emails. ChatGPT to create a study guide of topics I need to study. And GitHub Copilot for simple, menial tasks in programming. Those are the three that I have used this semester. However, AI is ubiquitous and inescapable as technology becomes more prominent in our daily lives.
 
-<br/><br/><br/>
+<br/><br/>
 
 ## Assisting in Assignments
 
