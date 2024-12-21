@@ -39,11 +39,10 @@ It is easy to write code. However, writing clean code is a challenge, which lead
 
 Not only are these skills beneficial in web application development but the concepts behind them can be applied to other concepts in software engineering and computer science, and even problem-solving. For example, <a href="https://www.profoundlogic.com/blog/benefits-of-frameworks/">UI frameworks</a> allows for consistent design and interactivity for different applications and platforms. The available libraries are open to all users, encouraging others to collaborate together.
 
-
-#### Final Product: Corponector
-<img class="img-fluid" alt="Corponector (ICS 314 Project) Home Page" src="../img/corpo_proj/home_page.png" />
-
 ## Conclusion
+
+<img width="175px" class="rounded float-start pe-4" src="../img/reflection/robot.png">
+
 I remember when I was walking at an empty high school campus going to a summer programming camp for robotics. It was the first time I had ever tapped into anything computer science-related. I sat in a chair staring blankly at the slides the senior programmers were sharing to teach us the basics of Java. Then, throwing an exercise at us. The famous print “Hello world!” Without any programming experience and not understanding what they had just said, I stared at the computer right in front of me, not thinking to look up at the slides to see the example they had provided. But once I saw the resemblance of the code I wrote and the one they had shown, everything seemed to click.
 
 To not be a burden in robotics, I took all the available computer science classes in high school. However, that made me more invested in computer science, and led me to pursue a degree in computer science. During summer camp, I followed the “Monkey see, monkey do” strategy. I paid close attention to the examples they showed us and connected everything together as I programmed. To this day, I continue learning about what I was typing. And moving forward, I hope to improve my understanding in not only programming, but develop my skills and knowledge in computer science, more specifically, software engineering.
