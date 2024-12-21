@@ -33,6 +33,13 @@ The CSS tutorial was just as helpful as the HTML tutorial. I understood how clas
 
 With libraries available, like React and Bootstrap, it seems like learning vanilla HTML and CSS was wasted effort. However, I feel like by learning HTML and CSS first, I was able to fully and easily understand how to create webpages using the available components. This was also amplified with the practice and in-class WODS. When it comes to creating mockup pages, it is almost muscle memory.
 
+In addition to UI frameworks, I also had practice in <a href="https://www.telerik.com/blogs/functional-programming-typescript">functional programming</a>. At first, functional programming was hard to grasp. However, with time and practice, I understood the structure and logic behind the syntax. Functional programming made the code easier to read, making it cleaner and more concise. It allowed for the use of reusable and maintainable code. For the first few weeks of the semester, we focused on the TypeScript programming language.
+
+It is easy to write code. However, writing clean code is a challenge, which leads us to the importance of coding standards. Coding standards is important because it increases code readability and quality. Beyond software engineering, it improves collaboration, organization, and efficiency. Easy to read code is easier to debug because one is can understand the logic and structure of the code, thus making spotting errors easier. Painful and tedious it may be, but will save hours of effort later on.
+
+Not only are these skills beneficial in web application development but the concepts behind them can be applied to other concepts in software engineering and computer science, and even problem-solving. For example, <a href="https://www.profoundlogic.com/blog/benefits-of-frameworks/">UI frameworks</a> allows for consistent design and interactivity for different applications and platforms. The available libraries are open to all users, encouraging others to collaborate together.
+
+
 #### Final Product: Corponector
 <img class="img-fluid" alt="Corponector (ICS 314 Project) Home Page" src="../img/corpo_proj/home_page.png" />
 
