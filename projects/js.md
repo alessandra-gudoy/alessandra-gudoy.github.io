@@ -4,7 +4,7 @@ type: project
 image: img/js/react.jpeg
 title: "Calculator"
 date: 2022
-published: false
+published: true
 labels:
   - JavaScript
   - React
