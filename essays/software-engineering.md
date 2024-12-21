@@ -18,20 +18,23 @@ After six years of "computer science,"—starting as a programmer on my high sch
 
 
 <div style="display: flex; align-items: center;">
-  <img alt="ESLint" src="../img/e28_coding-standards-reflection/eslint.png" height="100px" />
-  <img alt="React Icon" src="../img/reflection/react.png" height="100px" />
-  <img alt="Bootstrap Icon" src="../img/e37_ui-frameworks/bootstrap-logo.png" height="100px" />
+  <h2>Learning Highlights</h2>
+
+  <img alt="ESLint" src="../img/e28_coding-standards-reflection/eslint.png" height="100px" style="padding-left: 50px; padding-right: 20px;" />
+  <img alt="React Icon" src="../img/reflection/react.png" height="100px" style="padding-right: 20px;" />
+  <img alt="Bootstrap Icon" src="../img/e37_ui-frameworks/bootstrap-logo.png" height="100px" style="padding-right: 20px;" />
 </div>
 
-## Learning Highlights
-
-<img class="img-fluid" alt="Corponector (ICS 314 Project) Home Page" src="../img/corpo_proj/home_page.png" />
+## Putting It Together
 
 Learning about UI Frameworks (Basics) was fun and very straightforward. At the first exposure of HTML, I did not learn much, however, with the interactive tutorial on FreeCodeCamp, I found it easier to learn HTML. I was able to understand the basics through the provided explanations of each HTML tag
 
 The CSS tutorial was just as helpful as the HTML tutorial. I understood how classes and IDs were used to group and format elements in the body of the HTML. Sometimes, getting the correct formatting was simple and fast. Other times, it was tedious and frustrating. However, with Bootstrap, some of the more frustrating formats were easier to do. 
 
 With libraries available, like React and Bootstrap, it seems like learning vanilla HTML and CSS was wasted effort. However, I feel like by learning HTML and CSS first, I was able to fully and easily understand how to create webpages using the available components. This was also amplified with the practice and in-class WODS. When it comes to creating mockup pages, it is almost muscle memory.
+
+#### Final Product: Corponector
+<img class="img-fluid" alt="Corponector (ICS 314 Project) Home Page" src="../img/corpo_proj/home_page.png" />
 
 ## Conclusion
 I remember when I was walking at an empty high school campus going to a summer programming camp for robotics. It was the first time I had ever tapped into anything computer science-related. I sat in a chair staring blankly at the slides the senior programmers were sharing to teach us the basics of Java. Then, throwing an exercise at us. The famous print “Hello world!” Without any programming experience and not understanding what they had just said, I stared at the computer right in front of me, not thinking to look up at the slides to see the example they had provided. But once I saw the resemblance of the code I wrote and the one they had shown, everything seemed to click.
